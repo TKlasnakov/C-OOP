@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Excercisses04/Excercisses04.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Excercisses04/Characters/Mage.cs">
+    <Files>
+      <File FileName="Excercisses04/Main.cs" Line="1" Column="1" />
+      <File FileName="Excercisses04/Interfaces/IAttack.cs" Line="7" Column="26" />
+      <File FileName="Excercisses04/Interfaces/IHeal.cs" Line="7" Column="24" />
+      <File FileName="Excercisses04/Characters/Character.cs" Line="11" Column="56" />
+      <File FileName="Excercisses04/Characters/Priest.cs" Line="16" Column="21" />
+      <File FileName="Excercisses04/Characters/Warrior.cs" Line="15" Column="4" />
+      <File FileName="Excercisses04/Characters/Mage.cs" Line="11" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Excercisses" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

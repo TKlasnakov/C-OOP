@@ -1,0 +1,5 @@
+/home/tklasnakov/Documents/Programming/Softuni Fundamentals/C# OOP/Excercisses Complete/Excercisses/Excercisses03/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tklasnakov/Documents/Programming/Softuni Fundamentals/C# OOP/Excercisses Complete/Excercisses/Excercisses03/bin/Debug/Excercisses03.exe.mdb
+/home/tklasnakov/Documents/Programming/Softuni Fundamentals/C# OOP/Excercisses Complete/Excercisses/Excercisses03/bin/Debug/Excercisses03.exe
+/home/tklasnakov/Documents/Programming/Softuni Fundamentals/C# OOP/Excercisses Complete/Excercisses/Excercisses03/obj/x86/Debug/Excercisses03.exe
+/home/tklasnakov/Documents/Programming/Softuni Fundamentals/C# OOP/Excercisses Complete/Excercisses/Excercisses03/obj/x86/Debug/Excercisses03.exe.mdb
